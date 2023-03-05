@@ -1,6 +1,6 @@
 # Modulo-3-MySql-Individuales
 
- sobre una tabla. (considere precio por default EURO)
+ Consultas sobre una tabla. (considere precio por default EURO)
 1. Lista el nombre de todos los productos que hay en la tabla producto.
 2. Lista los nombres y los precios de todos los productos de la tabla producto.
 3. Lista todas las columnas de la tabla producto.
